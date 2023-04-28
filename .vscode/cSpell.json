@@ -1,0 +1,12 @@
+{
+  "version": "0.2",
+  "words": [
+    "antd",
+    "commitlint",
+    "flexbugs",
+    "loglevel",
+    "nprogress",
+    "recoiljs",
+    "stylelint"
+  ]
+}
