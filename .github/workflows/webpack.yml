@@ -10,7 +10,7 @@ on:
       # 手动触发
       manual:
         description: 'Trigger the workflow manually'
-        required: false
+        required: true
 
 jobs:
   build:
